@@ -7,8 +7,8 @@
 
 📫 I'm new to development
 
-🌱 I’m currently learning :
-    
+🌱 I’m currently learning :   
+ 
     ● js, html, lua, python.
 
 🔭 I’m currently working on **[J0thun](https://github.com/J0thun/J0thun)**
