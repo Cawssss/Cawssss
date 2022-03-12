@@ -1,7 +1,7 @@
 <p align="center">    
     <img style="border-radius: 100px" width="128" height="128" src="hhttps://avatars.githubusercontent.com/u/101475357?v=4">
 </p>
-<h1 align="center">Samuel</h1>
+<h1 align="center">Cawssss</h1>
 
 <p align="center">    
     <img src="https://github.com/Cawssss/Cawssss/blob/main/github-metrics.svg">
