@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning :
     
-   ● js, html, lua, python.
+   ●    js, html, lua, python.
 
 🔭 I’m currently working on **[J0thun](https://github.com/J0thun/J0thun)**
 
