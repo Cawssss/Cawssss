@@ -4,5 +4,5 @@
 
 - 🌱 I’m currently learning :
 
-   ● js, html, lua, python.
+      js, html, lua, python.
 
