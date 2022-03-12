@@ -3,9 +3,13 @@
 </p>
 <h1 align="center">Cawssss</h1>
 
+·°👋 Hi everyone, I’m @Cawssss °·
+
+📫 I'm new to development
+
+🌱 I’m currently learning :
+     js, html, lua, python.
 
 🔭 I’m currently working on **[J0thun](https://github.com/J0thun/J0thun)**
 
 📫 Contact [Twitter](https://twitter.com/CawsEz), [Discord](https://discord.com/users/471779534837121044)`Caws#3383`
-
-
