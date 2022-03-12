@@ -3,10 +3,9 @@
 </p>
 <h1 align="center">Cawssss</h1>
 
-<p align="center">    
-    <img src="https://github.com/Cawssss/Cawssss/blob/main/github-metrics.svg">
-</p>
 
 🔭 I’m currently working on **[J0thun](https://github.com/J0thun/J0thun)**
 
 📫 Contact [Twitter](https://twitter.com/CawsEz), [Discord](https://discord.com/users/471779534837121044)`Caws#3383`
+
+
